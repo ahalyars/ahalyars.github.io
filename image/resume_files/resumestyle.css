@@ -1,0 +1,94 @@
+#div{
+	display: flex;
+}
+
+.div1{
+	background-color: pink;
+	border:3px solid;
+	width: 25em;
+}
+.photo{
+	width:15em;
+	height: 15em;
+	margin-left: 2rem;
+	border-radius: 40%;
+	box-shadow: 15px 15px  10px  black;
+}
+
+.phone{
+	height: 3em;
+	width: 3em;
+	background-color: pink;
+
+}
+.td1{
+	font-size: 20px;
+	font-family: arial;
+
+}
+.td2{
+	font-size: 25px;
+	font-weight: bolder;
+}
+.td3{
+	font-size: 25px;
+}
+.name{
+	font-size: 5em;
+	box-shadow: 10px 10px  5px  black;
+	
+}
+
+
+.div2{
+	border:2px solid;
+	padding: 20px;
+	width: 50em;
+	background-color: #D8BFD8;
+	margin: 5px;
+}
+.progress{
+	color: blue;
+}
+.table  {
+  border: 3px solid black;
+  box-shadow: 5px 5px 10px;
+  padding: 25px;
+}
+.div3{
+	display: flex;
+
+
+}
+.box{
+	border:2px solid;
+	margin:25px;
+	border-radius: 25px;
+	text-align: center;
+	padding: 6px;
+	font-size: 20px;
+	font-weight: bold;
+	box-shadow: 5px 5px 10px;
+
+}
+.box1{
+	width: 6em;
+	height: 2em;
+}
+
+.box2{
+	width: 8em;
+	height: 4.5em;
+}
+.box3{
+	width: 15em;
+}
+ul,li{
+	font-size: 25px;
+}
+.linkedin{
+	width: 25px;
+}
+u{
+	 text-decoration-thickness: auto; 
+}
