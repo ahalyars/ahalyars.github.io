@@ -36,7 +36,7 @@ h3{
 }
 table{
 	border:5px solid #088F8F;
-	width: 70%;
+	width: 80%;
 	height: 40rem;
 	padding: 18px;
 	margin-left: auto;
@@ -50,7 +50,6 @@ th,td{
 	font-size: 30px;
 	font-weight: bold;
 	font-family: Lucida Fax;
-
 }
 .table1{
 	height: 10rem;
